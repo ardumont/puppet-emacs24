@@ -1,4 +1,4 @@
-puppet-stumpwm
+puppet-emacs24
 ==============
 
 A simple puppet module to ease the install of emacs24.
